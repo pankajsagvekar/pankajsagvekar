@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsagvekar&theme=onedark&show_icons=true&locale=en" alt="pankajsagvekar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsagvekar&" alt="pankajsagvekar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsagvekar&theme=onedark" alt="pankajsagvekar" /></p>
